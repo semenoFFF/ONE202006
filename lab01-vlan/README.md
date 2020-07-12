@@ -201,6 +201,7 @@ interface FastEthernet0/1
 ```
 4. Проверим доступность ресурсов:
 PC-A -> S1 (VLAN 20)
+
 ![](3.6.2-test.png)
 
 PC-B -> S2 
